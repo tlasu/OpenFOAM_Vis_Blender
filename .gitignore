@@ -13,3 +13,5 @@ cal_data/iobasin/[0-9]*
 cal_data/iobasin/postProcessing
 cal_data/iobasin/sequencedVTK
 cal_data/iobasin/constant/polyMesh
+cal_data/dambreak/run.foam
+cal_data/iobasin/run.foam
