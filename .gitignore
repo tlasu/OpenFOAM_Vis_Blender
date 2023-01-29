@@ -6,3 +6,10 @@ cal_data/dambreak/[0-9]*
 cal_data/dambreak/postProcessing
 cal_data/dambreak/sequencedVTK
 cal_data/dambreak/constant/polyMesh
+
+
+cal_data/iobasin/[0-9]*
+!cal_data/iobasin/0.orig
+cal_data/iobasin/postProcessing
+cal_data/iobasin/sequencedVTK
+cal_data/iobasin/constant/polyMesh
