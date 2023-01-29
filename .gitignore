@@ -1,2 +1,8 @@
 cal_data/dambreak/log.*
 cal_data/iobasin/log.*
+
+cal_data/dambreak/[0-9]*
+!cal_data/dambreak/0.orig
+cal_data/dambreak/postProcessing
+cal_data/dambreak/sequencedVTK
+cal_data/dambreak/constant/polyMesh
