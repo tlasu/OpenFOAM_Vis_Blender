@@ -15,3 +15,7 @@ cal_data/iobasin/sequencedVTK
 cal_data/iobasin/constant/polyMesh
 cal_data/dambreak/run.foam
 cal_data/iobasin/run.foam
+
+*.x3d
+*.vtp
+*.png
